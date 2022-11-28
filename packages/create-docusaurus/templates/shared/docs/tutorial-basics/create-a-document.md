@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Kiron Document
 
 Documents are **groups of pages** connected through:
 
